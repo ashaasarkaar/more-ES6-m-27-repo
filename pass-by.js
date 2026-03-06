@@ -1,6 +1,6 @@
 // amra jodi function parameter hisebe pass kori, r value hisebe bahir theke kono akta primitive man pathai, r pathanor pore change kori, tahole, primitive man ar ager value change hobe na, jodi o ba pore change hoye jabe.
 
-function multiply(a, b){
+function multiply(a, b){   // aikhane primitive data'r value k pass kora hoyeche
     a = a-5;
     b = b-5;
     console.log(a, b);
