@@ -17,3 +17,5 @@ const students = [
 const aduVaiStudents = students.filter(std => std.age > 30); //filter use korbo, jokhon kono sorto k fullfill kore, sei man ta k nite hobe
 // console.log(aduVaiStudents);
 
+
+
